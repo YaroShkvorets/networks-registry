@@ -3,7 +3,7 @@
   "version": "0.6.70",
   "title": "The Graph networks registry",
   "description": "This registry was generated and validated. To add a chain, open a pull request: https://github.com/graphprotocol/networks-registry",
-  "updatedAt": "2025-06-19T04:26:27.591Z",
+  "updatedAt": "2025-06-19T04:27:49.550Z",
   "networks": [
     {
       "id": "mainnet",
